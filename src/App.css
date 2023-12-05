@@ -1,0 +1,24 @@
+.text{
+  text-align: center;
+}
+h1,h2,h4{
+  color:darkblue;
+}
+*{
+  background-color:powderblue;
+}
+img{
+  padding-left: 18%;
+}
+ol,ul,a{
+  padding-left: 50%;
+}
+dl{
+  padding-left: 47%;
+}
+iframe{
+  padding-left: 30%;
+}
+h3{
+  text-align: center;
+}
